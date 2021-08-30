@@ -2,7 +2,7 @@
 
 A simple Bitcoin Cryptocurrency Finance Price Tracker App
 
-##Demo
+## Demo
 
 [Demo](https://cryptotracker-psi.vercel.app)
 
